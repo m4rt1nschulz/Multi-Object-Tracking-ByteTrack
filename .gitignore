@@ -1,0 +1,21 @@
+# Bases de datos y modelos
+data/
+*.npy
+*.pth
+*.pt
+
+# Archivos de caché y compilación de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Archivos temporales de Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Configuraciones de VSCode
+.vscode/
